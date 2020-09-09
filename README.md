@@ -1,0 +1,2 @@
+# Genetic_Algorithm-Rockets
+This is the implementation of Genetic Algorithm on a set of rocket objects to reach a target position using evolution through heredity , variation and selection based on fitness of the current generation and producing rockets for the next generation from it. The rocket object has DNA object in it which consist of genes which are responsible for the movement of the rockets in the desired target. The rocket object also has a basic physics engine built in it using vectors.   
